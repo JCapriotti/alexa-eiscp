@@ -1,0 +1,11 @@
+{
+  "author": "Jason Capriotti",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "eiscp": "0.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.0.0",
+    "mockery": "^2.1.0"
+  }
+}

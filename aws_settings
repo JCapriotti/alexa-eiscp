@@ -1,0 +1,5 @@
+
+IAM Role Policies
+-  AmazonDynamoDBFullAccess
+-  AWSLambdaBasicExecutionRole
+
