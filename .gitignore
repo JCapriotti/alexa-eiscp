@@ -1,2 +1,11 @@
 lambda.zip
+
+# Node
 node_modules
+
+# Python
+.env
+
+# IDE
+.idea
+.vscode
